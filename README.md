@@ -63,4 +63,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Authored by
 
-Sandeep M
+Sandeep M# findface-master
