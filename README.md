@@ -1,8 +1,6 @@
 
 # Findface
 
-By [Rubyeffect](https://www.rubyeffect.com/).
-
 This is a ruby gem to provide easy implementation of utilities of [FindFace Cloud API](https://findface.pro/en/). The [FindFace Cloud API](https://findface.pro/en/) offers integration with a face detection, verification, and identification platform. This API enables face comparison, and human detection with coordinates and sizes. REST calls are supported with JSON responses and Token-Based HTTP authentication. FindFace is a Cyprus based software development firm.
 
 ## Installation
@@ -23,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-The details on usage of "findface" gem are present at: `http://blog.rubyeffect.com/category/findface/`. If you wish to see Findface's API documentation, please visit the url: `https://findface.pro/en/docs.html`
+If you wish to see Findface's API documentation, please visit the url: `https://findface.pro/en/docs.html`
 
 1. Add gem to your application’s Gemfile
 
@@ -34,14 +32,6 @@ The details on usage of "findface" gem are present at: `http://blog.rubyeffect.c
     Findface.api_key = 'YOUR-API-KEY'
 
 3. Start using the gem 🙂
-
-## Documentation
-
-1. [Findface Gem Introduction](http://blog.rubyeffect.com/documentation-for-findface-gem/)
-2. [Findface Face Module Endpoints](http://blog.rubyeffect.com/findface-gem-face-module-endpoints/)
-3. [Findface Gallery Module Endpoints](http://blog.rubyeffect.com/findface-gem-gallery-module-endpoints/)
-4. [Findface Utility Module Endpoints](http://blog.rubyeffect.com/findface-gem-utility-module-endpoints/)
-5. [Findface Gem – Endpoints supporting Paginated results](http://blog.rubyeffect.com/findface-gem-endpoints-supporting-paginated-results/)
 
 ## TODO
 
@@ -73,17 +63,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Authored by
 
-Sandeep Mallela a.k.a Sam (sandeep@rubyeffect.com)
-
-## About RubyEffect
-
-<a href="http://www.rubyeffect.com" target="_blank">
-  <img src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/11201852_981564441856663_1789938874051519220_n.pnghttps://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/11201852_981564441856663_1789938874051519220_n.png?oh=9157db693c46360436e9bbe4ae89108d&oe=59E8DFD8" alt="RubyEffect">
-</a>
-
-RubyEffect builds intuitive, live and elegant software that solves real world problems. We love open source and it's community.
-
-Liked this gem? You may also like the articles we post on our [blog](http://blog.rubyeffect.com). Please do check
-
-We would love to work on your ideas and see them grow. Say hello @ http://rubyeffect.com/contact
-# findface-original
+Sandeep M
